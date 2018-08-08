@@ -1,16 +1,16 @@
-//META{"name":"Fallout_Seventy-Six","description":"Github: https://git.io/v7ovg    |   Support Server: https://discord.gg/aSyUs69    |   Website: https://nfld99.github.io/Info/","author":"NFLD99","version":"ersion auto updates"}*//{} 
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Master_Code.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Animations/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Fonts/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Grid/Yes.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Minimal/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Popup/Yes.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Hide/Channels/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Hide/Chat_Title_Bar/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Hide/Giulds/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Hide/Invites/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Hide/Members/No.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/Use_Hide/Windows_Bar/No.css);
+//META{"name":"Halo_%","description":"Github: https://github.com/xSh4dowXSniPerx/Better-Discord","author":"JustMatter","version":"ersion auto updates"}*//{} 
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Master_Code.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Animations/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Fonts/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Grid/Yes.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Minimal/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Popup/Yes.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Hide/Channels/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Hide/Chat_Title_Bar/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Hide/Giulds/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Hide/Invites/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Hide/Members/No.css);
+@import url(https://raw.githubusercontent.com/xSh4dowXSniPerx/Better-Discord/master/Source_Code/Use_Hide/Windows_Bar/No.css);
 :root {
   --Main-Colour: rgba(110,137,156,1);
   --Background-Colour: rgba(25,20,17,1);
@@ -23,11 +23,11 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://i.imgur.com/I2sbIut.png);
-  --Settings-Background: url(https://i.imgur.com/I2sbIut.png);
-  --Callout-Background: url(https://i.imgur.com/I2sbIut.png);
+  --Chat-Background: url(https://i.imgur.com/DepXaWU.jpg);
+  --Settings-Background: url(https://i.imgur.com/DepXaWU.jpg);
+  --Callout-Background: url(https://i.imgur.com/DepXaWU.jpg);
   --Title-Background: var(--Background-Colour);
-  --Theme-Variant: " Fallout 76";
+  --Theme-Variant: " Halo 5";
   --Chat-Font-Used: ;
   --Chat-Font-Size: 15px;
   --Unread-Message-Speed: 1.5s;
@@ -37,6 +37,6 @@
   --Emote-Popout-Background: var(--S-Colour);
   --load1: "Thank You!";
   --load2: "Please Enjoy!";
-  --load3: "➢NFLD99";
+  --load3: "JustMatter";
   --Background-Brightness: 0.65;
 }
