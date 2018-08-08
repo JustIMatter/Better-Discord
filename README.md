@@ -1,1 +1,1 @@
-[Info](https://nfld99.github.io/Info/)
+It's tight yo!
